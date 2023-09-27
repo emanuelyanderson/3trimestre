@@ -1,29 +1,20 @@
-body{
-    background-color: #d7621a;
+.logo_cabecalho{
+    width: 60 px;
+    margin-left: 200px;
+    margin-top: 60px;
 }
-h1{
-    font-size: 50px;
-    color:#520647;
-    text-align: center;
-    border: 12px solid #ffaa67;
-    margin-left: 50px;
-    margin-right: 50px;
+.cabecalho{
+    background-color: #586875;
 }
-p{
-    font-size: 37px;
-    margin-left: 60px;
-    color:#2c1001;
-    text-align: justify;
-}
-img{
-    width: 517px;
-    height: 517px;
-    margin: 9px;
-    margin-left: 80px;
-
-}
-.item_lista_cabcalho{
-    padding-left: 30px;
+  .lista_cabecalho{
+    display: flex;
+    margin-left: 280px;
+  }
+  .item_lista_cabecaho{
+    color: #537375;
     list-style: none;
-
-}
+    text-transform: uppercase;
+    font-size: 70px;
+    padding: 25px;
+  }
+  .logo
