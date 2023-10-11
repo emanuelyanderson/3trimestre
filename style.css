@@ -5,13 +5,14 @@
 }
 .cabecalho{
     background-color:#01e5d6;
-}00a
+    display: flex;
+}
   .lista_cabecalho{
     display: flex;
     margin-left: 280px;
     margin-top: 70px;
   }
-  .item_lista_cabecaho{
+  .item_lista_cabecalho{
     color: #537375;
     list-style: none;
     text-transform: uppercase;
