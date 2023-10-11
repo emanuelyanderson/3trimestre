@@ -23,10 +23,3 @@
     display: flex;
     margin-left: 500px;
   }
-  .item_lista_cabecaho{
-    color:#5b88a5;
-    list-style: none;
-    text-transform: uppercase;
-    font-size: 10px;
-    padding: 5px;
-  }
