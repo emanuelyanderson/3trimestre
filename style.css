@@ -10,7 +10,7 @@
   .lista_cabecalho{
     display: flex;
     margin-left: 80px;
-    margin-top: 60px;
+    margin-top: 40px;
   }
   .item_lista_cabecalho{
     color: #537375;
