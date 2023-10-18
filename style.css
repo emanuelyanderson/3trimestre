@@ -9,8 +9,8 @@
 }
   .lista_cabecalho{
     display: flex;
-    margin-left: 80px;
-    margin-top: 40px;
+    margin-left: 70px;
+    margin-top: 30px;
   }
   .item_lista_cabecalho{
     color: #537375;
